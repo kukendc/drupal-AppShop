@@ -1,0 +1,20 @@
+# French translation of Taxonomy Facets (8.x-1.0-rc4)
+# Copyright (c) 2017 by the French translation team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Taxonomy Facets (8.x-1.0-rc4)\n"
+"POT-Creation-Date: 2017-12-11 13:43+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Language-Team: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n>1);\n"
+
+msgid "Page title"
+msgstr "Titre de page"
+msgid "Node types"
+msgstr "Types de nœuds"
+msgid "Taxonomy Facets"
+msgstr "Facettes de taxonomie"

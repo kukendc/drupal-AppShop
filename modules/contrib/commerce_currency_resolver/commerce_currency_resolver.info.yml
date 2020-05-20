@@ -1,0 +1,23 @@
+name: 'Commerce Currency Resolver'
+type: module
+description: 'Commerce 2 currency enhancements'
+core: 8.x
+core_version_requirement: ^8 || ^9
+package: Commerce (Contrib)
+
+configure: commerce_currency_resolver.configuration
+
+dependencies:
+  - commerce:commerce_price (>=8.x-2.17)
+  - commerce:commerce_order (>=8.x-2.17)
+  - commerce_exchanger:commerce_exchanger (>=8.x-1.13)
+
+test_dependencies:
+  - commerce_shipping:commerce_shipping
+
+php: 7.1
+
+# Information added by Drupal.org packaging script on 2020-03-08
+version: '8.x-1.52'
+project: 'commerce_currency_resolver'
+datestamp: 1583695283

@@ -1,0 +1,8 @@
+name: Carousel
+type: module
+description: Slide Carousel Display
+core: 8.x
+package: Huge
+dependencies:
+  - field
+  - image
